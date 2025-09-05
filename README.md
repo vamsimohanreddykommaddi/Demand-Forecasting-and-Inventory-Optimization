@@ -34,5 +34,22 @@ This project is a **Streamlit-based web application** that performs **demand for
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vamsimohanreddykommaddi/demand-inventory-forecasting.git
+   cd demand-inventory-forecasting
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the streamlit app
+   ```bash
+   streamlit run demand_forecasting_deployment.py
+
+
+
 
