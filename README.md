@@ -42,7 +42,7 @@ This project is a **Streamlit-based web application** that performs **demand for
 1. Clone the repository:
    ```bash
    git clone https://github.com/vamsimohanreddykommaddi/demand-inventory-forecasting.git
-   cd demand-inventory-forecasting
+  
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
